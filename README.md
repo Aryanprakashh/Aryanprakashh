@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Aryanprakashh
-- 👀 I’m interested in learning C++ and Java
-- 🌱 I’m currently learning C++
+- 👀 I’m a coder in C++,C,Java
 - 💞️ I’m looking to collaborate on c++ oriented projects
 - 📫 How to reach me 
      you can contact me on twitter & instagram
