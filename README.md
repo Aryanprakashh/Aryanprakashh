@@ -1,4 +1,6 @@
-# 💫 About Me:
+<h1 align="center">Hi 👋, I'm Aryan Prakash</h1>
+<h3 align="center">A Passionate Computer Science undergrad from NIT Kurukshetra</h3>
+<h2>💫 About Me: </h2>
 🌱 I’m currently learning Nodejs and Reactjs<br>💬 Ask me about Web technologies<br>⚡ Fun fact I am a creative thinker <br>
 
 
